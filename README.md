@@ -1,6 +1,6 @@
 # PicaComic_iOS_Build
 
-From https://github.com/Pacalini/PicaComic iOS&macOS Release Build.
+From https://github.com/Pacalini/PicaComic iOS Release Build.
 
 ### Build Environment
 - macOS: 15.6
